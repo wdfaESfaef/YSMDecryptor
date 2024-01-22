@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "target": "ES2020",
+    "module": "NodeNext",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
